@@ -25,7 +25,6 @@ environment {
             steps {
                 // Get some code from a GitHub repository
                 git 'https://github.com/chinni4321/game-of-life.git'
-
             }
 
         }
